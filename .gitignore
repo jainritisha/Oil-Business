@@ -1,0 +1,9 @@
+# Database file
+crude_track.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit config
+.streamlit/
